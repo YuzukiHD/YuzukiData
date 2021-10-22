@@ -57,6 +57,17 @@ Disk Data Label
 | SM2258H  | 7D4A2B82#MS3 |
 | NV1120   | 7D4A2B82#MN0 |
 
+#### m.2
+
+| 主控     | SN           |
+| -------- | ------------ |
+| SM2246XT | 7D4A2B82#2S0 |
+| SM2246EN | 7D4A2B82#2S1 |
+| SM2258XT | 7D4A2B82#2S2 |
+| SM2259XT | 7D4A2B82#2S4 |
+| SM2258H  | 7D4A2B82#2S3 |
+| NV1120   | 7D4A2B82#2N0 |
+
 #### NVME
 
 | 主控     | SN           |
